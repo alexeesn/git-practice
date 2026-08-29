@@ -1,3 +1,5 @@
 console.log('teting3')
 console.log('teting3')
 console.log('alexis')
+console.log('16')
+console.log('caloocan')
